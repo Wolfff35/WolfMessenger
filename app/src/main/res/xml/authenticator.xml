@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountType="ua.wolfff"
+    android:icon="@drawable/ic_wolf_messenger_icon"
+    android:smallIcon="@drawable/ic_wolf_messenger_icon"
+    android:label="wolf messenger"
+    />

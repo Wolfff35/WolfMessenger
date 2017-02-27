@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_menu_contacts"
+            android:title="Контакты"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_messages1"
+            android:icon="@drawable/ic_menu_messages"
+            android:title="Сообщения" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="Настройки" />
+        <item
+            android:id="@+id/nav_accounts"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="Accounts" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_menu_exit"
+            android:title="Выход" />
+        <item
+            android:id="@+id/nav_sysInfo"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Sys. info" />
+        <item
+            android:id="@+id/nav_LogIn"
+            android:title="Log in" />
+
+    </group>
+</menu>
